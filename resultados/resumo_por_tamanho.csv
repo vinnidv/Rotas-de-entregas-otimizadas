@@ -1,0 +1,21 @@
+paradas,metodo,km_media,km_desvio,economia_pct,tempo_ms
+10,Ordem de chegada,49.93,5.43,0.0,0.006
+10,Varredura angular,31.6,5.01,36.7,0.008
+10,Vizinho mais próximo,29.79,4.5,40.3,0.007
+10,Vizinho mais próximo + 2-opt,26.04,2.92,47.8,0.02
+20,Ordem de chegada,93.71,9.9,0.0,0.002
+20,Varredura angular,50.21,8.12,46.4,0.011
+20,Vizinho mais próximo,40.33,5.31,57.0,0.017
+20,Vizinho mais próximo + 2-opt,35.18,3.94,62.5,0.077
+30,Ordem de chegada,136.96,11.47,0.0,0.003
+30,Varredura angular,65.28,10.85,52.3,0.017
+30,Vizinho mais próximo,49.09,5.23,64.2,0.035
+30,Vizinho mais próximo + 2-opt,41.73,3.06,69.5,0.178
+40,Ordem de chegada,180.76,15.87,0.0,0.003
+40,Varredura angular,85.85,15.67,52.5,0.032
+40,Vizinho mais próximo,57.32,4.68,68.3,0.066
+40,Vizinho mais próximo + 2-opt,49.56,3.0,72.6,0.301
+50,Ordem de chegada,227.54,16.29,0.0,0.003
+50,Varredura angular,103.86,18.03,54.4,0.024
+50,Vizinho mais próximo,61.78,4.51,72.8,0.091
+50,Vizinho mais próximo + 2-opt,53.7,3.0,76.4,0.473

@@ -1,0 +1,1 @@
+matplotlib>=3.5   # usado apenas em experimentos.py (figuras); o programa principal usa só a biblioteca padrão
